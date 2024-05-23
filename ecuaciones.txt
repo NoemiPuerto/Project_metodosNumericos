@@ -1,0 +1,19 @@
+Ecuaciones
+
+biseccion y regla falsa mejorada
+exp(-x) - x
+
+
+Newton Rapshon
+x.^3 - 6*x.^2 + 11*x - 6.1
+log(x.^2 + 1) - exp(x/2).*cos(pi.*x)
+x.^2-3*x-4
+
+Secante
+in(x/2) - 5*exp(-x)
+atan(x) - 2*x - 1
+
+unidad 4
+0.2+25*x-200*x.^2+675*x.^3-900*x.^4+400*x.^5
+
+
